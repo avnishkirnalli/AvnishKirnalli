@@ -7,16 +7,12 @@ I'm Avnish, a CS Student with 5+ years of experience working with multiple studi
 My interests include low-level programming, graphics programming, contributing to open-source software, developing tools, and more.
 I have been working on my own Game Engines, going deeper in Graphics Programming, and contributing to open-source software.
 
----
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/avnishkirnalli)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2v3fxQzMVk)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/avnishkirnalli)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/avnishknli)
-
----
 
 # 💻 Tech Stack
 
@@ -91,13 +87,10 @@ I have been working on my own Game Engines, going deeper in Graphics Programming
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
 # 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=avnishkirnalli&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avnishkirnalli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 ![](https://komarev.com/ghpvc/?username=avnishkirnalli&style=for-the-badge&base=400)
