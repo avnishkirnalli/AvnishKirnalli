@@ -47,7 +47,12 @@ I have been working on my own Game Engines, going deeper in Graphics Programming
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Perforce](https://img.shields.io/badge/perforce-%23000000.svg?style=for-the-badge&logo=perforce&logoColor=white)
+
+### 🤖 **AI/ML**
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFFFFF.svg?style=for-the-badge&logo=huggingface)
 
 ### 🎮 **Game Engines**
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -58,6 +63,8 @@ I have been working on my own Game Engines, going deeper in Graphics Programming
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![AngularJS](https://img.shields.io/badge/Angular%20JS-FF4040.svg?style=for-the-badge&logo=angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React%20JS-8080FB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ### 📱 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
