@@ -14,7 +14,7 @@
 
 - 🎓 Pursuing B.Tech in Computer Engineering at **SPIT, Mumbai**
 - 🤖 Currently building **RAG pipelines** and upskilling on state-of-the-art ML techniques
-- 🧩 I like understanding software at every layer, so when I work on AI systems, I think about how they fit into real, working software end-to-end
+- 🧩 I like understanding software at every layer, so when I work on AI systems, I think about how they fit into real, working software
 - 💭 I believe current LLMs aren't the key to AGI, but a stepping stone toward it
 
 ---
